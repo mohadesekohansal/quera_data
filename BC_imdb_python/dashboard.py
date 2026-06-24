@@ -10,7 +10,7 @@ mydb = mysql.connector.connect(
   host="127.0.0.1",
   user="root",
   # password must be enterd
-  password="!Q2w3e4R%"
+  password="#######"
 )
 
 cursor = mydb.cursor()
